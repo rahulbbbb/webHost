@@ -1,0 +1,332 @@
+[
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "Jane Smith",
+   "Data": "03/10/2013",
+   "Genre": "Mystery",
+   "Rating": 2,
+   "Summary": "Detective Jones solves the hardest case of his career.",
+   "ISBN": 5201505995503,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "Michael Lee",
+   "Data": "02/08/2020",
+   "Genre": "Mystery",
+   "Rating": 4,
+   "Summary": "An ordinary girl discovers she has extraordinary powers.",
+   "ISBN": 9580564641165,
+   "Publisher": "Mystery Press"
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "Michael Lee",
+   "Data": "27/10/2012",
+   "Genre": "Romance",
+   "Rating": 1,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 7640971890725,
+   "Publisher": "Mystery Press"
+ },
+ {
+   "Name": "Lost in Time",
+   "Author": "Alex Johnson",
+   "Data": "21/01/2009",
+   "Genre": "Fantasy",
+   "Rating": 4,
+   "Summary": "An ordinary girl discovers she has extraordinary powers.",
+   "ISBN": 7445445245459,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "John Doe",
+   "Data": "21/05/2011",
+   "Genre": "Fantasy",
+   "Rating": 2,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 9431057836688,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "Lost in Time",
+   "Author": "Jane Smith",
+   "Data": "06/05/2000",
+   "Genre": "Fantasy",
+   "Rating": 3,
+   "Summary": "A thrilling novel about mystery and adventure.",
+   "ISBN": 5073387967052,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "A Tale of Two Cities",
+   "Author": "John Doe",
+   "Data": "18/07/2010",
+   "Genre": "Mystery",
+   "Rating": 1,
+   "Summary": "An ordinary girl discovers she has extraordinary powers.",
+   "ISBN": 1641933858384,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "Emily Brown",
+   "Data": "26/04/2008",
+   "Genre": "Romance",
+   "Rating": 5,
+   "Summary": "An ordinary girl discovers she has extraordinary powers.",
+   "ISBN": 5522297907100,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Alex Johnson",
+   "Data": "15/05/2005",
+   "Genre": "Mystery",
+   "Rating": 1,
+   "Summary": "A thrilling novel about mystery and adventure.",
+   "ISBN": 3011840661232,
+   "Publisher": "Mystery Press"
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "Alex Johnson",
+   "Data": "28/04/2009",
+   "Genre": "Romance",
+   "Rating": 5,
+   "Summary": "Love blooms in the midst of war and chaos.",
+   "ISBN": 6064226127539,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Emily Brown",
+   "Data": "20/02/2017",
+   "Genre": "Mystery",
+   "Rating": 2,
+   "Summary": "Love blooms in the midst of war and chaos.",
+   "ISBN": 5349030193037,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "Lost in Time",
+   "Author": "Emily Brown",
+   "Data": "10/08/2006",
+   "Genre": "Fantasy",
+   "Rating": 5,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 4792942510856,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "The Secret Garden",
+   "Author": "John Doe",
+   "Data": "12/03/2019",
+   "Genre": "Fiction",
+   "Rating": 5,
+   "Summary": "A thrilling novel about mystery and adventure.",
+   "ISBN": 3447661204583,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "A Tale of Two Cities",
+   "Author": "Alex Johnson",
+   "Data": "16/04/2013",
+   "Genre": "Mystery",
+   "Rating": 5,
+   "Summary": "Detective Jones solves the hardest case of his career.",
+   "ISBN": 9390843520331,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Emily Brown",
+   "Data": "21/06/2023",
+   "Genre": "Fiction",
+   "Rating": 3,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 5846016929625,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "A Tale of Two Cities",
+   "Author": "Michael Lee",
+   "Data": "09/08/2013",
+   "Genre": "Romance",
+   "Rating": 2,
+   "Summary": "Love blooms in the midst of war and chaos.",
+   "ISBN": 4651962328491,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "The Secret Garden",
+   "Author": "Alex Johnson",
+   "Data": "09/02/2008",
+   "Genre": "Romance",
+   "Rating": 2,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 2320494296638,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "A Tale of Two Cities",
+   "Author": "Alex Johnson",
+   "Data": "09/01/2010",
+   "Genre": "Romance",
+   "Rating": 1,
+   "Summary": "An ordinary girl discovers she has extraordinary powers.",
+   "ISBN": 7302850135819,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "A Tale of Two Cities",
+   "Author": "John Doe",
+   "Data": "17/03/2007",
+   "Genre": "Fantasy",
+   "Rating": 3,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 6422831667471,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Michael Lee",
+   "Data": "14/12/2006",
+   "Genre": "Mystery",
+   "Rating": 3,
+   "Summary": "An ordinary girl discovers she has extraordinary powers.",
+   "ISBN": 7027829548610,
+   "Publisher": "Mystery Press"
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Emily Brown",
+   "Data": "04/04/2006",
+   "Genre": "Fiction",
+   "Rating": 3,
+   "Summary": "A thrilling novel about mystery and adventure.",
+   "ISBN": 6385889061513,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "Emily Brown",
+   "Data": "10/02/2014",
+   "Genre": "Fiction",
+   "Rating": 3,
+   "Summary": "A thrilling novel about mystery and adventure.",
+   "ISBN": 3152287872218,
+   "Publisher": "XYZ Books"
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Michael Lee",
+   "Data": "27/08/2016",
+   "Genre": "Romance",
+   "Rating": 2,
+   "Summary": "Detective Jones solves the hardest case of his career.",
+   "ISBN": 4927961308490,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "The Secret Garden",
+   "Author": "John Doe",
+   "Data": "06/09/2017",
+   "Genre": "Romance",
+   "Rating": 2,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 5883104894276,
+   "Publisher": "Mystery Press"
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "Alex Johnson",
+   "Data": "02/08/2009",
+   "Genre": "Mystery",
+   "Rating": 2,
+   "Summary": "Love blooms in the midst of war and chaos.",
+   "ISBN": 4538234336996,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "A Tale of Two Cities",
+   "Author": "Alex Johnson",
+   "Data": "04/02/2008",
+   "Genre": "Fiction",
+   "Rating": 5,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 2267931490742,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Jane Smith",
+   "Data": "01/11/2016",
+   "Genre": "Romance",
+   "Rating": 4,
+   "Summary": "A thrilling novel about mystery and adventure.",
+   "ISBN": 4715849049222,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Michael Lee",
+   "Data": "06/10/2007",
+   "Genre": "Mystery",
+   "Rating": 4,
+   "Summary": "Love blooms in the midst of war and chaos.",
+   "ISBN": 1486925002476,
+   "Publisher": "Mystery Press"
+ },
+ {
+   "Name": "The Secret Garden",
+   "Author": "Alex Johnson",
+   "Data": "16/04/2008",
+   "Genre": "Mystery",
+   "Rating": 2,
+   "Summary": "Love blooms in the midst of war and chaos.",
+   "ISBN": 9929489399920,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "Journey to the Unknown",
+   "Author": "Emily Brown",
+   "Data": "19/05/2011",
+   "Genre": "Romance",
+   "Rating": 3,
+   "Summary": "Love blooms in the midst of war and chaos.",
+   "ISBN": 9806911136415,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "The Secret Garden",
+   "Author": "Alex Johnson",
+   "Data": "02/02/2014",
+   "Genre": "Mystery",
+   "Rating": 3,
+   "Summary": "An ordinary girl discovers she has extraordinary powers.",
+   "ISBN": 8158969643168,
+   "Publisher": "Bestseller Co."
+ },
+ {
+   "Name": "Lost in Time",
+   "Author": "Emily Brown",
+   "Data": "01/01/2020",
+   "Genre": "Mystery",
+   "Rating": 3,
+   "Summary": "Detective Jones solves the hardest case of his career.",
+   "ISBN": 7537081674013,
+   "Publisher": "ABC Publications"
+ },
+ {
+   "Name": "The Adventures of Alice",
+   "Author": "John Doe",
+   "Data": "11/11/2002",
+   "Genre": "Mystery",
+   "Rating": 1,
+   "Summary": "Join the magical world of wizards and dragons in this epic tale.",
+   "ISBN": 9248607755744,
+   "Publisher": "ABC Publications"
+ }
+]
